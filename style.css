@@ -1,0 +1,12 @@
+body {
+	width: 100%;
+	background: white;
+}
+#game {
+	margin: 0 auto;
+	width: 300px;
+}
+img {
+	margin-top: 50%;
+	width: 300px;
+}
